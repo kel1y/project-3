@@ -1,0 +1,58 @@
+.frame1-container {
+  min-height: 100vh;
+}
+.frame1-frame1 {
+  width: 100%;
+  height: 728px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame1-text {
+  top: 13px;
+  left: 18px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Serif;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-text105 {
+  top: 104px;
+  left: 591px;
+  color: rgba(0, 0, 0, 0.47999998927116394);
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Serif;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-ellipse1 {
+  top: 0px;
+  left: 591px;
+  width: 107px;
+  height: 95px;
+  position: absolute;
+  border-color: transparent;
+}
